@@ -7,7 +7,7 @@
    <li>2e. Manager(Марьяна, лоджик)</li>
    </ul>
 3. Excel
-<a href="https://docs.google.com/spreadsheets/d/1mU9XB-5JdrxKadJHrP8e1Wyqzxg0uzZZ8Clzpgs4ndk/edit#gid=0"></a>
+<a href="https://docs.google.com/spreadsheets/d/1mU9XB-5JdrxKadJHrP8e1Wyqzxg0uzZZ8Clzpgs4ndk/edit#gid=0">таблица</a>
 token="1mU9XB-5JdrxKadJHrP8e1Wyqzxg0uzZZ8Clzpgs4ndk"
 <ul>4. SQLLite
    <li>user('Пользователь')     кошелек()     цикл()
