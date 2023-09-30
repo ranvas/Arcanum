@@ -19,7 +19,7 @@ token="1mU9XB-5JdrxKadJHrP8e1Wyqzxg0uzZZ8Clzpgs4ndk"</li>
 </li>
 <li> 4.magic('дерево исследований')
  <p>
-    <a href="https://miro.com/app/board/uXjVMBpnZvk=/?share_link_id=755466250786">
+    <a href="https://miro.com/app/board/uXjVMBpnZvk=/?share_link_id=755466250786">Миро
        <img src="https://github.com/ranvas/Arcanum/assets/6121112/19df0072-2077-46d9-8477-1a5a5426ec9c"/>
     </a>
  </p>
