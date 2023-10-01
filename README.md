@@ -1,8 +1,10 @@
 # Arcanum
 ## BotFather, var bot = new MyOwnBot(code);
-Коды ботов:
-https://t.me/Satisfactory_1000_bot - 6636861811:AAE_Kfx_ZbbUdWLV-FmWXxR1NvQ0c2wBFAM 
-https://t.me/ArcanumTest_bot - 6363533444:AAFd_ONV7tK67ZCggkWchu5GXO5eEdQejeg
+<p>Коды ботов:</p>
+<p>https://t.me/Satisfactory_1000_bot - 6636861811:AAE_Kfx_ZbbUdWLV-FmWXxR1NvQ0c2wBFAM </p>
+<p>https://t.me/ArcanumTest_bot - 6363533444:AAFd_ONV7tK67ZCggkWchu5GXO5eEdQejeg</p>
+<p>Канал логов:</p>
+<p>https://t.me/+arvY0YU_eBhhOTNi</p>
 ## HSDIntegrator.
 
 ## SQLLite
