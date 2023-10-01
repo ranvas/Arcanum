@@ -19,6 +19,7 @@ connectionString="";
 ### token="1mU9XB-5JdrxKadJHrP8e1Wyqzxg0uzZZ8Clzpgs4ndk"
 ### роли('/root_send')
  <img src="https://github.com/ranvas/Arcanum/assets/6121112/19df0072-2077-46d9-8477-1a5a5426ec9c"/>
+ 
 ### template('/template')
 
 ## magic('дерево исследований')
