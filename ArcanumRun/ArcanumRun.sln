@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArcanumRun", "ArcanumRun\ArcanumRun.csproj", "{E11FC1D0-142C-433A-8F29-31B0EA80C950}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integrators.Abstractions", "..\..\..\Work\Sga\Integrators\Integrators.Abstractions\Integrators.Abstractions.csproj", "{24A68C62-67C1-44FA-B734-7BA62D869AB3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integrators.Dispatcher", "..\..\..\Work\Sga\Integrators\Integrators.Dispatcher\Integrators.Dispatcher.csproj", "{F7B138F4-8B39-4646-87EC-FC5DE8E906A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integrators.Core", "..\..\..\Work\Sga\Integrators\Integrators.Core\Integrators.Core.csproj", "{6E2AAD95-6E8D-49B0-B5B8-20B39A137964}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArcanumLogic", "ArcanumLogic\ArcanumLogic.csproj", "{DDAAE87B-D35D-4A63-8845-FE2A5E04A0B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TgBot.Abstractions", "..\..\..\Work\Sga\Telegram\TgBot.Abstractions\TgBot.Abstractions.csproj", "{1328A451-DFF2-4764-8CDD-4A095E218154}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TgBot.DataSphere", "..\..\..\Work\Sga\Telegram\TgBot.DataSphere\TgBot.DataSphere.csproj", "{380E9E8A-EEBC-4153-8B95-5E1E6D76E994}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E11FC1D0-142C-433A-8F29-31B0EA80C950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E11FC1D0-142C-433A-8F29-31B0EA80C950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E11FC1D0-142C-433A-8F29-31B0EA80C950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E11FC1D0-142C-433A-8F29-31B0EA80C950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24A68C62-67C1-44FA-B734-7BA62D869AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A68C62-67C1-44FA-B734-7BA62D869AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A68C62-67C1-44FA-B734-7BA62D869AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A68C62-67C1-44FA-B734-7BA62D869AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B138F4-8B39-4646-87EC-FC5DE8E906A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B138F4-8B39-4646-87EC-FC5DE8E906A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B138F4-8B39-4646-87EC-FC5DE8E906A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B138F4-8B39-4646-87EC-FC5DE8E906A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E2AAD95-6E8D-49B0-B5B8-20B39A137964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E2AAD95-6E8D-49B0-B5B8-20B39A137964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E2AAD95-6E8D-49B0-B5B8-20B39A137964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E2AAD95-6E8D-49B0-B5B8-20B39A137964}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDAAE87B-D35D-4A63-8845-FE2A5E04A0B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDAAE87B-D35D-4A63-8845-FE2A5E04A0B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDAAE87B-D35D-4A63-8845-FE2A5E04A0B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDAAE87B-D35D-4A63-8845-FE2A5E04A0B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1328A451-DFF2-4764-8CDD-4A095E218154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1328A451-DFF2-4764-8CDD-4A095E218154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1328A451-DFF2-4764-8CDD-4A095E218154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1328A451-DFF2-4764-8CDD-4A095E218154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{380E9E8A-EEBC-4153-8B95-5E1E6D76E994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{380E9E8A-EEBC-4153-8B95-5E1E6D76E994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{380E9E8A-EEBC-4153-8B95-5E1E6D76E994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{380E9E8A-EEBC-4153-8B95-5E1E6D76E994}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85C425BB-A408-456F-8823-FB5D10F0C729}
+	EndGlobalSection
+EndGlobal
