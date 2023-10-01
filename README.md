@@ -1,31 +1,28 @@
 # Arcanum
 ## BotFather, var bot = new MyOwnBot("6636861811:AAE_Kfx_ZbbUdWLV-FmWXxR1NvQ0c2wBFAM");//кот ученый
 ## HSDIntegrator.
-   <ul>
-   <li>a Excel(модели)</li>
-   <li>b SQLLite(модели)</li>
-   <li>c MemoryCache(Случай, модели)</li>
-   
-   <li>def. Manager(Марьяна, лоджик)</li>
-</ul>
+
+## SQLLite
+connectionString="";
+### SQLLite(модели)
+### user('Пользователь')     кошелек()     цикл()
+### MemoryCache(Случай, модели) +
+### Manager(Марьяна, лоджик) +
 ## Excel
 <a href="https://docs.google.com/spreadsheets/d/1mU9XB-5JdrxKadJHrP8e1Wyqzxg0uzZZ8Clzpgs4ndk/edit#gid=0">таблица</a>
-token="1mU9XB-5JdrxKadJHrP8e1Wyqzxg0uzZZ8Clzpgs4ndk"</li>
-## SQLLite
-   <ul>
-   <li>user('Пользователь')     кошелек()     цикл()</li>
-    <li> роли('/root_send')</li>
-   <li>template('пространство')</li>
-</ul>
-</li>
-<li> 5. magic('дерево исследований')
- <p>
+### Excel(модели)
+#### Пользователь
+#### пространство
+#### дерево исследований
+
+## token="1mU9XB-5JdrxKadJHrP8e1Wyqzxg0uzZZ8Clzpgs4ndk"
+### роли('/root_send')
+### template('/template')
+
+## magic('дерево исследований')
     <a href="https://miro.com/app/board/uXjVMBpnZvk=/?share_link_id=755466250786">Миро
        <img src="https://github.com/ranvas/Arcanum/assets/6121112/19df0072-2077-46d9-8477-1a5a5426ec9c"/>
     </a>
- </p>
- </li>
-</ul>
 
    <p>Как запускать:</p>
    
