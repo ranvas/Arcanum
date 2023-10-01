@@ -1,11 +1,10 @@
 # Arcanum
-<ul><li>1. BotFather, var bot = new MyOwnBot("6636861811:AAE_Kfx_ZbbUdWLV-FmWXxR1NvQ0c2wBFAM");//кот ученый</li>
-   <li>
-<p>2. HSDIntegrator.</p>
+## BotFather, var bot = new MyOwnBot("6636861811:AAE_Kfx_ZbbUdWLV-FmWXxR1NvQ0c2wBFAM");//кот ученый
+## HSDIntegrator.
    <ul>
-   <li>2a. Excel(модели)</li>
-   <li>2b. SQLLite(модели)</li>
-   <li>2c. MemoryCache(Случай, модели)</li>
+   <li>a Excel(модели)</li>
+   <li>b SQLLite(модели)</li>
+   <li>c MemoryCache(Случай, модели)</li>
    "json":{
    "button":"updateBotMenuButton#14b85813 bot_id:long button:BotMenuButton = Update;
 
@@ -27,14 +26,12 @@ inputUser#f21158c6 user_id:long access_hash:long = InputUser;
 bots.setBotMenuButton#4504d54f user_id:InputUser button:BotMenuButton = Bool;",
       "current_cycle":"button"
    }
-   </li>
-   <li>2def. Manager(Марьяна, лоджик)</li>
+   <li>def. Manager(Марьяна, лоджик)</li>
 </ul>
-
-   <li>3. Excel
+## Excel
 <a href="https://docs.google.com/spreadsheets/d/1mU9XB-5JdrxKadJHrP8e1Wyqzxg0uzZZ8Clzpgs4ndk/edit#gid=0">таблица</a>
 token="1mU9XB-5JdrxKadJHrP8e1Wyqzxg0uzZZ8Clzpgs4ndk"</li>
-<li><p>4. SQLLite</p>
+## SQLLite
    <ul>
    <li>user('Пользователь')     кошелек()     цикл()</li>
     <li> роли('/root_send')</li>
