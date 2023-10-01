@@ -34,7 +34,8 @@ bots.setBotMenuButton#4504d54f user_id:InputUser button:BotMenuButton = Bool;",
    <li>3. Excel
 <a href="https://docs.google.com/spreadsheets/d/1mU9XB-5JdrxKadJHrP8e1Wyqzxg0uzZZ8Clzpgs4ndk/edit#gid=0">таблица</a>
 token="1mU9XB-5JdrxKadJHrP8e1Wyqzxg0uzZZ8Clzpgs4ndk"</li>
-<li><ul>4. SQLLite
+<li><p>4. SQLLite</p>
+   <ul>
    <li>user('Пользователь')     кошелек()     цикл()</li>
     <li> роли('/root_send')</li>
    <li>template('пространство')</li>
