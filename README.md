@@ -23,9 +23,8 @@ connectionString="";
 ### template('/template')
 
 ## magic('дерево исследований')
-    <a href="https://miro.com/app/board/uXjVMBpnZvk=/?share_link_id=755466250786">Миро
-      
-    </a>
+    
+<a href="https://miro.com/app/board/uXjVMBpnZvk=/?share_link_id=755466250786">Миро</a>
 
    <p>Как запускать:</p>
    
