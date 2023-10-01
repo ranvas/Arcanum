@@ -26,7 +26,7 @@ inputUser#f21158c6 user_id:long access_hash:long = InputUser;
 bots.setBotMenuButton#4504d54f user_id:InputUser button:BotMenuButton = Bool;",
       "current_cycle":"button"
    }
-   <li>2e. Manager(Марьяна, лоджик)</li>
+   <li>2def. Manager(Марьяна, лоджик)</li>
 </ul>
       </li>
    <li>3. Excel
