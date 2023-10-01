@@ -17,13 +17,13 @@ userFull#93eadb53 flags:# blocked:flags.0?true phone_calls_available:flags.4?tru
 
 ---functions---
 
-users.getFullUser#b60f5918 id:InputUser = users.UserFull;"
+users.getFullUser#b60f5918 id:InputUser = users.UserFull;
 inputUserEmpty#b98886cf = InputUser;
 inputUser#f21158c6 user_id:long access_hash:long = InputUser;
 
 ---functions---
 
-bots.setBotMenuButton#4504d54f user_id:InputUser button:BotMenuButton = Bool;"
+bots.setBotMenuButton#4504d54f user_id:InputUser button:BotMenuButton = Bool;",
       "current_cycle":"button"
    }
    <li>2e. Manager(Марьяна, лоджик)</li>
