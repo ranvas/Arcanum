@@ -11,11 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integrators.Dispatcher", ".
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integrators.Core", "..\..\..\Work\Sga\Integrators\Integrators.Core\Integrators.Core.csproj", "{6E2AAD95-6E8D-49B0-B5B8-20B39A137964}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArcanumLogic", "ArcanumLogic\ArcanumLogic.csproj", "{DDAAE87B-D35D-4A63-8845-FE2A5E04A0B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArcanumLogic", "ArcanumLogic\ArcanumLogic.csproj", "{DDAAE87B-D35D-4A63-8845-FE2A5E04A0B3}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TgBot.Abstractions", "..\..\..\Work\Sga\Telegram\TgBot.Abstractions\TgBot.Abstractions.csproj", "{1328A451-DFF2-4764-8CDD-4A095E218154}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TgBot.DataSphere", "..\..\..\Work\Sga\Telegram\TgBot.DataSphere\TgBot.DataSphere.csproj", "{380E9E8A-EEBC-4153-8B95-5E1E6D76E994}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Serialization", "..\..\..\Work\Sga\Text\Serialization\Serialization.csproj", "{60181531-B157-4902-A654-3546C7D74F86}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{380E9E8A-EEBC-4153-8B95-5E1E6D76E994}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{380E9E8A-EEBC-4153-8B95-5E1E6D76E994}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{380E9E8A-EEBC-4153-8B95-5E1E6D76E994}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60181531-B157-4902-A654-3546C7D74F86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60181531-B157-4902-A654-3546C7D74F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60181531-B157-4902-A654-3546C7D74F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60181531-B157-4902-A654-3546C7D74F86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

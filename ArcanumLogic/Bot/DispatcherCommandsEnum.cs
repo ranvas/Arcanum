@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ArcanumLogic
+namespace ArcanumLogic.Bot
 {
-    public class ArcanumManager
+    public enum DispatcherCommandsEnum
     {
-        public ArcanumManager Instance() { return this; }
+        status
     }
 }
