@@ -8,9 +8,12 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\..\Work\Sga\Integrators\Integrators.Dispatcher\Integrators.Dispatcher.csproj" />
-    <ProjectReference Include="..\..\..\..\Work\Sga\Telegram\TgBot.DataSphere\TgBot.DataSphere.csproj" />
     <ProjectReference Include="..\..\..\..\Work\Sga\Text\Serialization\Serialization.csproj" />
+    <ProjectReference Include="..\..\..\Work\Sga\GoogleSheet\GoogleSheet.Abstractions\GoogleSheet.Abstractions.csproj" />
+    <ProjectReference Include="..\..\..\Work\Sga\GoogleSheet\GoogleSheet.Core\GoogleSheet.Core.csproj" />
     <ProjectReference Include="..\..\..\Work\Sga\Integrators\Integrators.Core\Integrators.Core.csproj" />
+    <ProjectReference Include="..\..\..\Work\Sga\Telegram\TgBot.DataSphere\TgBot.DataSphere.csproj" />
+    <ProjectReference Include="..\ArcanumLogic.EntityFramework\ArcanumLogic.EntityFramework.csproj" />
   </ItemGroup>
 
 </Project>

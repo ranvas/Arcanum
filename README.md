@@ -6,13 +6,31 @@
 <p>Канал логов:</p>
 <p>https://t.me/+arvY0YU_eBhhOTNi</p>
 ## HSDIntegrator.
-
+### Немного технического.
+Бот регистрируется в HostedService и слушает общий сервер. При получении любого сообщения, проходит базовую обработку и передается в универсальный обработчик, который асинхронно выполняет задачи по доступу к бд и гуглтаблицам.
 ## SQLLite
-connectionString="";
-### SQLLite(модели)
-### user('Пользователь')     кошелек()     цикл()
-### MemoryCache(Случай, модели) +
-### Manager(Марьяна, лоджик) +
+connectionString="Data Source=Arcanum.db;";
+### Account
+/import_users
+/update_user @username
+table: "accounts"
+Пользователь: "https://docs.google.com/spreadsheets/d/1mU9XB-5JdrxKadJHrP8e1Wyqzxg0uzZZ8Clzpgs4ndk/edit#gid=0"
+
+### Bid
+
+
+### Imagine
+
+### Research
+
+### Transfer
+
+### Tree
+
+## MemoryCache(Случай, модели) +
+
+## Manager(Марьяна, лоджик) +
+
 ## Excel
 <a href="https://docs.google.com/spreadsheets/d/1mU9XB-5JdrxKadJHrP8e1Wyqzxg0uzZZ8Clzpgs4ndk/edit#gid=0">таблица</a>
 ### Excel(модели)

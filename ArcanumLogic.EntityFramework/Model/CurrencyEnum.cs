@@ -4,10 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ArcanumLogic.Bot
+namespace ArcanumLogic.EntityFramework.Model
 {
-    public enum DispatcherCommandsEnum
+    public enum CurrencyEnum
     {
-        status
+        magic,
+        tech,
+        neutral,
+        destiny
     }
 }

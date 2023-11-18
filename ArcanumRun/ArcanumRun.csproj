@@ -8,10 +8,35 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.12">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="7.0.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.12">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\..\..\..\Work\Sga\Integrators\Integrators.Core\Integrators.Core.csproj" />
     <ProjectReference Include="..\..\..\..\Work\Sga\Integrators\Integrators.Dispatcher\Integrators.Dispatcher.csproj" />
     <ProjectReference Include="..\..\..\..\Work\Sga\Telegram\TgBot.DataSphere\TgBot.DataSphere.csproj" />
+    <ProjectReference Include="..\ArcanumLogic.EntityFramework\ArcanumLogic.EntityFramework.csproj" />
     <ProjectReference Include="..\ArcanumLogic\ArcanumLogic.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Arcanum.db">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="google.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>

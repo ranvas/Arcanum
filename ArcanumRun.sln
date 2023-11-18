@@ -5,19 +5,31 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArcanumRun", "ArcanumRun\ArcanumRun.csproj", "{E11FC1D0-142C-433A-8F29-31B0EA80C950}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integrators.Abstractions", "..\..\..\Work\Sga\Integrators\Integrators.Abstractions\Integrators.Abstractions.csproj", "{24A68C62-67C1-44FA-B734-7BA62D869AB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integrators.Abstractions", "..\..\Work\Sga\Integrators\Integrators.Abstractions\Integrators.Abstractions.csproj", "{24A68C62-67C1-44FA-B734-7BA62D869AB3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integrators.Dispatcher", "..\..\..\Work\Sga\Integrators\Integrators.Dispatcher\Integrators.Dispatcher.csproj", "{F7B138F4-8B39-4646-87EC-FC5DE8E906A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integrators.Dispatcher", "..\..\Work\Sga\Integrators\Integrators.Dispatcher\Integrators.Dispatcher.csproj", "{F7B138F4-8B39-4646-87EC-FC5DE8E906A3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integrators.Core", "..\..\..\Work\Sga\Integrators\Integrators.Core\Integrators.Core.csproj", "{6E2AAD95-6E8D-49B0-B5B8-20B39A137964}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integrators.Core", "..\..\Work\Sga\Integrators\Integrators.Core\Integrators.Core.csproj", "{6E2AAD95-6E8D-49B0-B5B8-20B39A137964}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArcanumLogic", "ArcanumLogic\ArcanumLogic.csproj", "{DDAAE87B-D35D-4A63-8845-FE2A5E04A0B3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TgBot.Abstractions", "..\..\..\Work\Sga\Telegram\TgBot.Abstractions\TgBot.Abstractions.csproj", "{1328A451-DFF2-4764-8CDD-4A095E218154}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TgBot.Abstractions", "..\..\Work\Sga\Telegram\TgBot.Abstractions\TgBot.Abstractions.csproj", "{1328A451-DFF2-4764-8CDD-4A095E218154}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TgBot.DataSphere", "..\..\..\Work\Sga\Telegram\TgBot.DataSphere\TgBot.DataSphere.csproj", "{380E9E8A-EEBC-4153-8B95-5E1E6D76E994}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TgBot.DataSphere", "..\..\Work\Sga\Telegram\TgBot.DataSphere\TgBot.DataSphere.csproj", "{380E9E8A-EEBC-4153-8B95-5E1E6D76E994}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Serialization", "..\..\..\Work\Sga\Text\Serialization\Serialization.csproj", "{60181531-B157-4902-A654-3546C7D74F86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Serialization", "..\..\Work\Sga\Text\Serialization\Serialization.csproj", "{60181531-B157-4902-A654-3546C7D74F86}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess.Abstractions", "..\..\Work\Sga\DataAccess\DataAccess.Abstractions\DataAccess.Abstractions.csproj", "{497D384D-A10C-4A3A-A33B-8C0517DC7AA4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess.EFCore", "..\..\Work\Sga\DataAccess\DataAccess.EFCore\DataAccess.EFCore.csproj", "{72B936B8-94B5-451E-B03A-BAB848586799}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess.SqlLite", "..\..\Work\Sga\DataAccess\DataAccess.SqlLite\DataAccess.SqlLite.csproj", "{A978E149-FC59-4DE9-984E-92F3E48D9715}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArcanumLogic.EntityFramework", "ArcanumLogic.EntityFramework\ArcanumLogic.EntityFramework.csproj", "{9A8281ED-8382-4A9C-A82E-617CF77C20CC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleSheet.Abstractions", "..\..\Work\Sga\GoogleSheet\GoogleSheet.Abstractions\GoogleSheet.Abstractions.csproj", "{3BEFB66E-7E31-412C-9833-0DEC02823AC7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleSheet.Core", "..\..\Work\Sga\GoogleSheet\GoogleSheet.Core\GoogleSheet.Core.csproj", "{CDA0154E-F02C-4CF8-A517-4C27BE683F7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +69,30 @@ Global
 		{60181531-B157-4902-A654-3546C7D74F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60181531-B157-4902-A654-3546C7D74F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60181531-B157-4902-A654-3546C7D74F86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{497D384D-A10C-4A3A-A33B-8C0517DC7AA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497D384D-A10C-4A3A-A33B-8C0517DC7AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497D384D-A10C-4A3A-A33B-8C0517DC7AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497D384D-A10C-4A3A-A33B-8C0517DC7AA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72B936B8-94B5-451E-B03A-BAB848586799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B936B8-94B5-451E-B03A-BAB848586799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B936B8-94B5-451E-B03A-BAB848586799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B936B8-94B5-451E-B03A-BAB848586799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A978E149-FC59-4DE9-984E-92F3E48D9715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A978E149-FC59-4DE9-984E-92F3E48D9715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A978E149-FC59-4DE9-984E-92F3E48D9715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A978E149-FC59-4DE9-984E-92F3E48D9715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A8281ED-8382-4A9C-A82E-617CF77C20CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A8281ED-8382-4A9C-A82E-617CF77C20CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A8281ED-8382-4A9C-A82E-617CF77C20CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A8281ED-8382-4A9C-A82E-617CF77C20CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BEFB66E-7E31-412C-9833-0DEC02823AC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BEFB66E-7E31-412C-9833-0DEC02823AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BEFB66E-7E31-412C-9833-0DEC02823AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BEFB66E-7E31-412C-9833-0DEC02823AC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDA0154E-F02C-4CF8-A517-4C27BE683F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA0154E-F02C-4CF8-A517-4C27BE683F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA0154E-F02C-4CF8-A517-4C27BE683F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA0154E-F02C-4CF8-A517-4C27BE683F7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
